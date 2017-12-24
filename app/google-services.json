@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752166244955",
+    "firebase_url": "https://uploadfast-1a936.firebaseio.com",
+    "project_id": "uploadfast-1a936",
+    "storage_bucket": "uploadfast-1a936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752166244955:android:69beb927d0107336",
+        "android_client_info": {
+          "package_name": "create_ti.com.uploadfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752166244955-jn4dadb1ckmp4isd0v89ku0mfssnvb1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "create_ti.com.uploadfast",
+            "certificate_hash": "35ec668d9193c639079cc1e234bf1c48b6d488e6"
+          }
+        },
+        {
+          "client_id": "752166244955-1qtmv4m6u1266lrikkumabcvughg6ibi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGs9DqMEXPBl8VQXPFGqSoxGoisb1zMRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752166244955-1qtmv4m6u1266lrikkumabcvughg6ibi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
